@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Subtitle TTS Reader</string>
+    <string name="service_description">Tự động nhận diện và đọc to phụ đề ở đáy màn hình</string>
+</resources>
